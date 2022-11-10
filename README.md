@@ -1,5 +1,5 @@
 # LunarLander
-What is it?: -A game written with C# and unity.
+-A game written with C# and unity.
 
 Learning focuses: 
 -2D physics 
