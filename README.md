@@ -30,7 +30,7 @@ Mobile or PC
 
 ### Installation
 * GooglePlay: https://play.google.com/store/apps/details?id=com.SchiesseHouseGames.LunarLander&hl=en_ZA&gl=US
-* Itch: https://scheisse-house-games.itch.io/lunar-lander
+* Itch: https://jimmygame.itch.io/lunar-lander
 
 ## Gameplay
 * *W* = Thrust.
