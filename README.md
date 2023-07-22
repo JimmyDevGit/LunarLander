@@ -1,37 +1,47 @@
-# LunarLander
--A game written with C# and unity.
+# Lunar Lander
+Experience the thrill of piloting a lunar lander through various levels in this 2D game. Refuel at fuel stations, complete levels within a specific time, and aim for fuel surplus to earn stars. 
 
-Learning focuses: 
--2D physics 
---Propulsion/force 
---Drag 
---Measured impact forces 
--AI 
---Path finding 
--Sound design 
---Creating sounds from scratch 
---Modifying existing sounds to fit application 
--Lighting 
---Universal render pipeline 
---Baked in lighting 
---Lighting effects
+## Table of Contents
+1. [About the Game](#about-the-game)
+2. [Game Features](#game-features)
+3. [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+4. [Gameplay](#gameplay)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Acknowledgments](#acknowledgments)
 
-Purpose of publishing: -To gain critical feedback and use it to better future applications -To get advice on how the app could be better optimised
+## About The Game
+In Lunar Lander, you're at the helm of a lunar lander navigating through various levels. Your mission? To complete each level, refuel at stations, and strive to achieve a fuel surplus - all while racing against the clock.
 
-How to play:
-Pilot your Lunar Lander through the vast caves and creators of this moon to get home safely only stopping to fill up along the way.
-There are 3 stars for each level.
-1 star for completing each level.
-1 star for beating the target time.
-1 star for beating the fuel economy target.
+![Game Screenshot](https://github.com/JimmyDevGit/LunarLander/blob/main/Scripts/Thumb.png)
 
-Controls: 
-W: Thrust
-A: Rotate Left
-D: Rotate Right
+## Game Features
+* **Thrilling Levels**: Pilot your lunar lander through various challenging levels.
+* **Fuel Stations**: Refuel at stations strategically placed throughout the levels.
+* **Star Ratings**: Aim to earn all three stars - for level completion, achieving a fuel surplus, and completing within a certain time.
+* **Intuitive Controls**: Simple 'W' for thrust and 'A' and 'D' for turning controls.
 
-Links:
-GooglePlay:
-https://play.google.com/store/apps/details?id=com.SchiesseHouseGames.LunarLander&hl=en_ZA&gl=US
-Itch:
-https://scheisse-house-games.itch.io/lunar-lander
+## Getting Started
+
+### Prerequisites
+Mobile or PC
+
+### Installation
+* GooglePlay: https://play.google.com/store/apps/details?id=com.SchiesseHouseGames.LunarLander&hl=en_ZA&gl=US
+* Itch: https://scheisse-house-games.itch.io/lunar-lander
+
+## Gameplay
+* *W* = Thrust.
+* *A* = Rotate left.
+* *D* = Rotate right.
+
+## Contributing
+None.
+
+## License
+None.
+
+## Acknowledgments
+None.
